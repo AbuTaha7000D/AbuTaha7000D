@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Ehab</h1>
 <h3 align="center">System Administration Engineer | Linux & Networking Enthusiast</h3>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AbuTaha7000D/count.svg" />
-</p>
-
 ---
 
 ## 🚀 About Me
