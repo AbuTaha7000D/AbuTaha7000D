@@ -40,14 +40,10 @@ I’m passionate about **Linux, networking, and cybersecurity**.
 
 ## ☕ Get in Touch
 <p align="left">
-<a href="https://linkedin.com/in/abutaha7000d" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/AbuTaha7000D" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="https://twitter.com/AbuTaha7000D" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-<a href="mailto:eng.mahmoud.e.hussein@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://linkedin.com/in/abutaha7000d" target="blank"><img src="/source/icons/linkedin.svg" height="40" /></a>
+<a href="https://github.com/AbuTaha7000D" target="blank"><img src="/source/icons/github.svg" height="40" /></a>
+<a href="https://facebook.com/abutaha7000d" target="blank"><img src="/source/icons/facebook.svg" height="40" /></a>
+<a href="https://twitter.com/AbuTaha7000D" target="blank"><img src="/source/icons/twitter.svg" height="40" /></a>
+<a href="mailto:eng.mahmoud.e.hussein@gmail.com" target="blank"><img src="/source/icons/gmail.svg" height="40" /></a>
+<a href="https://t.me/AbuTaha7000D" target="blank"><img src="/source/icons/telegram.svg" height="40" /></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuTaha7000D&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuTaha7000D&layout=compact&theme=tokyonight)
