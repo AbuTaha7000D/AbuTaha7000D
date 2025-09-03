@@ -8,8 +8,6 @@ I'm **Mahmoud Ehab**, a fresh graduate System Administration Engineer from Port 
 I’m passionate about **Linux, networking, and cybersecurity**.  
 
 - 🎓 B.Sc. in Electrical Engineering (Computer & Control Engineering) – 2025  
-- 💼 Site Coordinator @ Almentor Egypt  
-- 🖥️ Former Software Engineer Intern @ ALX Africa  
 - 🛠️ Strong background in Linux, Windows, and networking
 - 🧩 Skilled in Python, C/C++, SQL, and problem-solving  
 
@@ -25,8 +23,9 @@ I’m passionate about **Linux, networking, and cybersecurity**.
 
 ---
 
-## 📂 Featured Projects
-- 🔧 [Linux Post-Install Script](https://github.com/AbuTaha7000D/linux-postinstall) – Automated setup for Linux environments after fresh installation.  
+## 📂 Projects
+- 🔧 [Linux Post-Install Script](https://github.com/AbuTaha7000D/linux-postinstall) – Automated setup for Linux environments after fresh installation.
+- 👤 [Portfolio](https://github.com/AbuTaha7000D/portfolio) – Simple portfolio website of me. 
 - 📱 Snack n’ Track – AI-powered Nutrition Tracking App *(Graduation Project)*.  
 
 ---
