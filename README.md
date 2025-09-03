@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Ehab</h1>
 <h3 align="center">System Administration Engineer | Linux & Networking Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abutaha7000d" alt="Profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -46,3 +50,4 @@ I’m passionate about **Linux, networking, and cybersecurity**.
 <a href="mailto:eng.mahmoud.e.hussein@gmail.com" target="blank"><img src="/source/icons/gmail.svg" height="40" /></a>
 <a href="https://t.me/AbuTaha7000D" target="blank"><img src="/source/icons/telegram.svg" height="40" /></a>
 </p>
+
